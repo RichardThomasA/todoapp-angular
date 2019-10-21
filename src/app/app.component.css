@@ -35,6 +35,7 @@ form .data li{
     margin: 1em auto; 
     color: #666; 
     font-family: "Raleway";
+    list-style-type: none;
 }
 
 form .data li i{    
